@@ -1,21 +1,25 @@
 # EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
 
-DATE:
+## DATE:
 
-AIM :
-
-
-ALGORITHM :
+## AIM :
 
 
-PROGRAM :
+## ALGORITHM :
 
 
-OUTPUT :
+## PROGRAM :
 
 
+## OUTPUT :
 
-RESULT :
+### CLIENT :
+![](./1.png)
+
+### SERVER :
+![](./2.png)
+
+## RESULT :
 
 
 
